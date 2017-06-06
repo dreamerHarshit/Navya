@@ -1,13 +1,17 @@
 # Navya
 
-##How to run
+## How to run
 
 pip install django==1.8
+
 pip install djangorestframework
+
 pip install markdown       # Markdown support for the browsable API.
+
 pip install django-filter  # Filtering support
 
 cd Navya
+
 python manage.py runserver #to runserver
 
 1. Given user, return list of names of permissions that this user is entitled to
